@@ -1,6 +1,3 @@
 # hello-world
 
-messing around with this here to learn some stuff. 
-
-
-messing around more
+I'm a fisheries biologist learning to use GitHub to share (primarily R) code I write and learn from others.
